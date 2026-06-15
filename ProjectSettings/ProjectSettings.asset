@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: IGP
-  productName: Acelera y Aprende
+  productName: Acelera y Aprende IGP
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -300,7 +300,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: df8e732b7692c754b823b60da96d4c66, type: 3}
+      m_Icon: {fileID: 2800000, guid: 28c4de0f936a96446bb5e98977b132c9, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
