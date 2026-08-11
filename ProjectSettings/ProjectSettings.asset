@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: IGP
-  productName: Acelera y Aprende IGP
+  companyName: igp
+  productName: acelerayaprende
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -167,8 +167,9 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.IGP.AcelerayAprende
+    Android: pe.gob.igp.acelerayaprende
     Standalone: com.DefaultCompany.2D-URP
+    iPhone: pe.gob.igp.acelerayaprende
   buildNumber:
     Standalone: 0
     VisionOS: 0
